@@ -86,3 +86,6 @@ The following table gives a benchmark of video captioning methods on MSVD datase
 ## Quality
 We select some good and bad examples to demonstrate the pros and cons of our method.
 ![Results](./diagram/results.png  "Results")
+
+## ps
+I copy from https://github.com/Yugnaynehc/ssta-captioning to finish one homework .
